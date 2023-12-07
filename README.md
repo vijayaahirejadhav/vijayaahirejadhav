@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VijayaAhire
-- 👀 I’m interested in Python,Machine Learning,Data Analytics
-- 🌱 I’m currently learning Statistics
+- 👋 Hi, I’m @Vijaya
+- 👀 I’m Data Scientist with ML and Deep Learning experience  
 - 💞️ I’m looking to collaborate on ML with Python
-- 📫 How to reach me 9423547334
+- 📫 How to reach me 9356989607
 
 <!---
 vijayaahirejadhav/vijayaahirejadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
